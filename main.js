@@ -1,0 +1,18 @@
+var texto ="Mi proyecto de la consola";
+console.log(texto);
+var firstname = "Alfredo";
+var lastname = "Ferrara";
+var names = firstname.concat(lastname);
+console.log(names);
+var a = 5;
+var b = 10;
+var sume = a+b;
+console.log(sume);
+var c = 2.5;
+var d = 2.5;
+var sume1 = c+d;
+console.log(sume1);
+var E = 25;
+var F = 25;
+var sume2 = E+F;
+console.log(sume2);
